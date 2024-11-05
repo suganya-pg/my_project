@@ -1,0 +1,7 @@
+1.	Navigate to your existing repository (e.g., my-project).
+2.	Create a new branch called feature-1.
+3.	Switch to the feature-1 branch and create a new file named feature.txt.
+4.	Add some content to feature.txt and save it.
+5.	Stage and commit the changes on the feature-1 branch.
+6.	Switch back to the main branch and merge the feature-1 branch into the main branch.
+
