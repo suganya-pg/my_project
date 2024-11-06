@@ -4,4 +4,4 @@ This project demonstrates how to initialize and manage a Git repository. The fol
 2. Initialized a Git repository.
 3. Added a README file.
 4. Committed the initial files.
-5. Update the changes
+
