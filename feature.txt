@@ -6,3 +6,4 @@
 6.	Switch back to the main branch and merge the feature-1 branch into the main branch.
 
 First change
+second change
